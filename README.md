@@ -1,2 +1,2 @@
 # dev-lounge
-code examples for ww.dev-lounge.com
+code examples for www.dev-lounge.com
