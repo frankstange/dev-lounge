@@ -12,4 +12,4 @@ The larger portfolio projects are stored in their own repositories.
 ## Content
 
 - Credit Card Checker
-- Misterious Organisms
+- Mysterious Organism
